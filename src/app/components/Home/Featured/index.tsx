@@ -61,7 +61,7 @@ const Featured = () => {
     <section className="relative py-5 sm:py-10 bg-deepSlate dark:bg-darkmode after:absolute after:w-1/4 after:h-1/4 after:bg-[url('/images/wework/vector.svg')] after:top-72 after:right-0 after:bg-no-repeat">
       <div className="container mx-auto max-w-screen-xl px-4 relative">
         <div className="text-center overflow-hidden pb-5">
-          <h3 className="my-5">Featured works.</h3>
+          <h3 className="my-5 mt-5">Featured works.</h3>
         </div>
 
         <Slider {...settings}>
