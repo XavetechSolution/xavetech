@@ -36,8 +36,8 @@ const technologies = [
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg',
   },
   {
-    name: 'Shopify',
-    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg',
+    name: 'supabase',
+    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg',
   },
   {
     name: 'WordPress',
